@@ -1,0 +1,28 @@
+ /* Estilos personalizados */
+ body {
+    background-color: #f8f9fa;
+  }
+  .navbar {
+    background-color: #1b0088;
+  }
+  .navbar-dark .navbar-nav .nav-link {
+    color: #ffffff;
+  }
+  .navbar-dark .navbar-toggler-icon {
+    background-color: #ffffff;
+  }
+  .jumbotron {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 0.5rem;
+  }
+  .widget {
+    background-color: #1b0088;
+    border: 1px solid #688db1;
+    border-radius: 0.8rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  .logo img {
+    width: 50px; /* Ajusta el tamaño de la imagen según tus necesidades */
+  }
